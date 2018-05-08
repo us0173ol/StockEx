@@ -16,5 +16,6 @@ The Historical Data sheet is mainly for analysis of the stock behavior over a ch
 ![alt text](https://github.com/us0173ol/StockEx/blob/master/screenshots/Historical%20Data.PNG "Historical Data")
 
 The My Portfolio sheet will keep a record of stocks you currently are invested in displaying the price you bought it for and the date purchased.  Everytime a stock is purchased and this table is populated, a sell button will be created so you can choose to sell the stock when you see fit.  If you try to sell more stock than you own, a message will appear informing you of the current number of shares you own and let you try again.  If you sell less than the total number of shares you own, the QTY will change on this sheet but the information will reamain.  If you sell all of the stock you own for that particular company, the data for that company will be removed along with the sell button associated with it.  Lastly this is where you can "deposit" more money in to your account to make purchases.  
-
+## My Portfolio Sheet
+![alt text](https://github.com/us0173ol/StockEx/blob/master/screenshots/MyPortfolio.PNG "My Portfolio")
 The Sold Stock sheet will contain a record of every sale made regaurdless of quantity.  It will calculate profit and loss, your bank, and essentially give you a receipt of each sale made so you can track your ability to make good trades.  
